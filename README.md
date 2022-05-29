@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Faguim 👋
 
 - 🌱 Tenho 17 anos
-- 🌱 Estou atualmente aprendendo Java
+- 🌱 Estou atualmente estudando Java
 - 🌱 Procuro aprender mais
 <div align="center">
   <a href="https://github.com/Faguim02">

@@ -2,8 +2,6 @@
 **`Desenvolvedor e estudante de TI`**
 
 ---
-
-## Sobre mim
 - 🔭 Atualmente, estou cursando o 3º semestre em Análise  e Desenvolvimento de Sistemas
 - 🌱 Desenvolvo Sites Eficientes e escalaveis com React/Next ou Angular e Nodes.js/Express/Nest.js
 - Tenho experiência em Bancos de Dados relacionais e não relacionais

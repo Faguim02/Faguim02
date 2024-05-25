@@ -6,7 +6,7 @@
 - 🌱 Desenvolvo Sites Eficientes e escalaveis com React/Next ou Angular e Nodes.js/Express/Nest.js
 - Tenho experiência em Bancos de Dados relacionais e não relacionais
 - Experiência tem Testes Unitarios
-- Crio Aplicativeis mobiles com Flutter
+- Desenvolvedor Android com Kotlin
 - Crio jogos 2d na Godot
 - Vontade de aprender mais e mais...
 
